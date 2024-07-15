@@ -1,1 +1,1 @@
-# Turing-Machine
+- This C project simulates a Turing Tape Machine with input from a text file
